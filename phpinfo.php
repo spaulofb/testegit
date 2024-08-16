@@ -1,0 +1,4 @@
+<?php
+///  Testando GIT
+phpinfo();
+?>
