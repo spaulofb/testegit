@@ -1,6 +1,6 @@
 
 <?php
-/****  Iniciar   ******/
+/******  ->  Iniciar <-  ******/
 header("location: phpinfo.php ");
 ///
 ?>
