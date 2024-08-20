@@ -1,9 +1,8 @@
 
 <?php
 /******  ->  Iniciar <-  
- * 20240820 - DEPOIS
+ * 20240819 - ANTES 
  *******/
-///  header("location: phpinfo.php ");
-header("location: alo.php ");
+header("location: phpinfo.php ");
 ///
 ?>
